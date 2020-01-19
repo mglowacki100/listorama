@@ -9,6 +9,11 @@ https://github.com/qinhanmin2014/tiny-sklearn
 split by time for sklearn
 https://github.com/sam31415/timeseriescv
 
+* **Kedro**
+by quantumblack
+https://github.com/quantumblacklabs/kedro
+
+
 # AutoML - single table
 * **NEURAXLE**, **TO_CHECK** 
 Let your pipeline steps have hyperparameter spaces
