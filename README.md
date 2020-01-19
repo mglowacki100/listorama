@@ -117,4 +117,7 @@ https://books.goalkicker.com/
 * Deep-quant. Fundamental data 
 https://github.com/euclidjda/deep-quant
 
+* Git po polsku
+https://rogerdudler.github.io/git-guide/index.pl.html
+
 
