@@ -1,6 +1,6 @@
 **Very drafty!!! TODO: add more links from notes and structure it better**
 
-# Machine learning
+# sklearn
 * **tiny-sklearn**
 Minimal implementation of sklearn. Good to get general idea.
 https://github.com/qinhanmin2014/tiny-sklearn
@@ -9,9 +9,47 @@ https://github.com/qinhanmin2014/tiny-sklearn
 split by time for sklearn
 https://github.com/sam31415/timeseriescv
 
+* trees for sklearn
+https://github.com/scikit-garden/scikit-garden
+
+* sklearn extensions
+https://github.com/koaning/scikit-lego
+
+* sklearn searchgrid syntax sugar
+https://github.com/jnothman/searchgrid
+
+* hyperopt for sklearn
+https://github.com/hyperopt/hyperopt-sklearn
+
+* sklearn pipeline extensions
+https://github.com/jem1031/pandas-pipelines-custom-transformers
+https://github.com/Kgoetsch/sklearn_pipeline_enhancements
+
+* sklearn extensions*
+https://github.com/scikit-learn-contrib/scikit-learn-extra
+
+* sklern SLEP
+https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/
+
+
+# frameworks
 * **Kedro**
 by quantumblack
 https://github.com/quantumblacklabs/kedro
+
+* **MLFlow**
+https://github.com/mlflow/mlflow
+
+* **DVC** - data versioning
+https://github.com/iterative/dvc
+
+* **Hangar** - data versioning
+https://github.com/tensorwerk/hangar-py
+
+
+# SQL
+* SQL on GPU
+https://blazingsql.com/
 
 
 # AutoML - single table
@@ -34,6 +72,8 @@ https://github.com/amueller/dabl
 * **hyperparameter_hunter**
 https://github.com/HunterMcGushion/hyperparameter_hunter
 
+* visualization for automl
+https://github.com/HDI-Project/ATMSeer
 
 
 # AutoML - multiple tables
@@ -41,12 +81,17 @@ https://github.com/HunterMcGushion/hyperparameter_hunter
 Closed-source, trial, C++, incremental updates
 https://www.get.ml/
 
+
+
 # Pandas, data wrangling
 * Sets handling for pandas
 https://github.com/Florents-Tselai/pandas-sets
 
 * Pandas summary
 https://github.com/mouradmourafiq/pandas-summary
+
+* Pandas column type detection
+https://github.com/tahaceritli/ptype-dmkd
 
 * **CleverCSV** 
 Dealing with messy CSV
@@ -64,6 +109,8 @@ https://github.com/intake/intake
 NetFlix, AWS
 https://metaflow.org/
 
+* serverless pipelines
+https://nuclio.io/
 
 # Time series
 * **Matrix-profile**
@@ -77,10 +124,26 @@ https://github.com/uber/manifold
 * By google - ml debug
 https://github.com/pair-code/what-if-tool
 
+* Compare models
+https://github.com/JohannesBuchner/UltraNest
+
+* Built AI apps fast
+https://www.streamlit.io/
+
 
 # Tools - general
 * Add structure to your commits
 https://github.com/commitizen/cz-cli
+
+* git and jupyter
+https://github.com/jupyter/nbdime
+
+* Git PL
+https://rogerdudler.github.io/git-guide/index.pl.html
+
+* **Black** python code formatter
+https://github.com/psf/black
+
 
 # ML - Reinforcement Learning
 * Really good intro 
@@ -110,6 +173,9 @@ https://github.com/kaushaltrivedi/fast-bert
 By uber. Lifting modeling.
 https://github.com/uber/causalml
 
+* Churn - MARKETING
+https://github.com/CamDavidsonPilon/lifetimes
+
 # Other
 * Notes for professional book series
 https://books.goalkicker.com/
@@ -117,7 +183,5 @@ https://books.goalkicker.com/
 * Deep-quant. Fundamental data 
 https://github.com/euclidjda/deep-quant
 
-* Git po polsku
-https://rogerdudler.github.io/git-guide/index.pl.html
 
 
