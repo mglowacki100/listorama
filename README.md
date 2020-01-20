@@ -31,11 +31,14 @@ https://github.com/scikit-learn-contrib/scikit-learn-extra
 * sklern SLEP
 https://scikit-learn-enhancement-proposals.readthedocs.io/en/latest/
 
+* sklearn extensions
+https://github.com/rasbt/mlxtend
+
 
 # frameworks
-* **Kedro**
-by quantumblack
+* Kedro by quantumblack, cookiecutter-data-science
 https://github.com/quantumblacklabs/kedro
+https://github.com/drivendata/cookiecutter-data-science
 
 * **MLFlow**
 https://github.com/mlflow/mlflow
@@ -96,13 +99,22 @@ https://github.com/mouradmourafiq/pandas-summary
 * Pandas column type detection
 https://github.com/tahaceritli/ptype-dmkd
 
+* Pandas EDA
+https://github.com/pandas-profiling/pandas-profiling
+
 * **CleverCSV** 
 Dealing with messy CSV
 https://github.com/alan-turing-institute/CleverCSV
 
+* dirty categorical variables
+https://github.com/dirty-cat/dirty_cat/
+
 * **great-expectations**
 Testing pipelines and pandas
 https://github.com/great-expectations/great_expectations
+
+* defensive pandas
+https://github.com/engarde-dev/engarde
 
 * **Intake**
 Data directories. Compare with Kedro-intake
@@ -117,6 +129,9 @@ https://metaflow.org/
 
 * serverless pipelines
 https://nuclio.io/
+
+* feature store
+https://github.com/gojek/feast
 
 # Time series
 * **Matrix-profile**
@@ -160,6 +175,9 @@ https://github.com/commitizen/cz-cli
 * git and jupyter
 https://github.com/jupyter/nbdime
 
+* parametrizaton of jupyter
+https://github.com/nteract/papermill
+
 * jupyter into dashboard
 https://github.com/voila-dashboards/voila
 
@@ -169,6 +187,8 @@ https://rogerdudler.github.io/git-guide/index.pl.html
 * **Black** python code formatter
 https://github.com/psf/black
 
+* tabulate ...
+https://github.com/gregbanks/python-tabulate
 
 # ML - Reinforcement Learning
 * Really good intro 
