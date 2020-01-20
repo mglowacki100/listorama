@@ -75,6 +75,9 @@ https://github.com/HunterMcGushion/hyperparameter_hunter
 * visualization for automl
 https://github.com/HDI-Project/ATMSeer
 
+* very high-level, by uber
+https://github.com/uber/ludwig
+
 
 # AutoML - multiple tables
 * **get.ML**
@@ -105,6 +108,9 @@ https://github.com/great-expectations/great_expectations
 Data directories. Compare with Kedro-intake
 https://github.com/intake/intake
 
+* data cleaning
+https://github.com/ericmjl/pyjanitor
+
 * **MetaFlow**
 NetFlix, AWS
 https://metaflow.org/
@@ -116,6 +122,12 @@ https://nuclio.io/
 * **Matrix-profile**
 Really interesting approach
 https://github.com/target/matrixprofile-ts
+
+* sklearn inspired
+https://github.com/EthanRosenthal/skits
+
+* fast.ai timeseries
+https://github.com/tcapelle/TimeSeries_fastai
 
 # Tools - ML (visualization)
 * By uber - ml debug
@@ -130,6 +142,16 @@ https://github.com/JohannesBuchner/UltraNest
 * Built AI apps fast
 https://www.streamlit.io/
 
+# Visualization
+https://github.com/plotly/plotly_express
+https://github.com/gyli/PyWaffle
+https://github.com/holoviz/hvplot - pandas
+
+# Arrays, big data
+https://github.com/zarr-developers/zarr-python
+https://github.com/dask/dask
+https://github.com/scikit-hep/awkward-array
+https://github.com/ibis-project/ibis
 
 # Tools - general
 * Add structure to your commits
@@ -137,6 +159,9 @@ https://github.com/commitizen/cz-cli
 
 * git and jupyter
 https://github.com/jupyter/nbdime
+
+* jupyter into dashboard
+https://github.com/voila-dashboards/voila
 
 * Git PL
 https://rogerdudler.github.io/git-guide/index.pl.html
