@@ -23,6 +23,7 @@ https://github.com/hyperopt/hyperopt-sklearn
 
 * sklearn pipeline extensions
 https://github.com/jem1031/pandas-pipelines-custom-transformers
+
 https://github.com/Kgoetsch/sklearn_pipeline_enhancements
 
 * sklearn extensions*
@@ -38,6 +39,7 @@ https://github.com/rasbt/mlxtend
 # frameworks
 * Kedro by quantumblack, cookiecutter-data-science
 https://github.com/quantumblacklabs/kedro
+
 https://github.com/drivendata/cookiecutter-data-science
 
 * **MLFlow**
@@ -159,13 +161,18 @@ https://www.streamlit.io/
 
 # Visualization
 https://github.com/plotly/plotly_express
+
 https://github.com/gyli/PyWaffle
+
 https://github.com/holoviz/hvplot - pandas
 
 # Arrays, big data
 https://github.com/zarr-developers/zarr-python
+
 https://github.com/dask/dask
+
 https://github.com/scikit-hep/awkward-array
+
 https://github.com/ibis-project/ibis
 
 # Tools - general
@@ -228,5 +235,6 @@ https://books.goalkicker.com/
 * Deep-quant. Fundamental data 
 https://github.com/euclidjda/deep-quant
 
-
+* Google data search
+https://datasetsearch.research.google.com/
 
